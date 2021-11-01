@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mert Özer.
+- 👋 Hi, My name is Mert
 - 👀 I’m interested in Computer Science and Entrepreneurship. 
 - 🌱 I am currently a 12th grade high school student.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
