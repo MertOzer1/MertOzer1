@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Mert
 - 👀 I’m interested in Computer Science and Entrepreneurship. 
-- 🌱 I am currently a freshman at college.
+- 🌱 I am currently a sophomore at college.
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 You can connect me via m-ozer1@hotmail.com
